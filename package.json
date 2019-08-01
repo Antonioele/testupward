@@ -1,0 +1,12 @@
+{
+  "name": "testupward",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Antonioele/testupward.git",
+  "author": "antonioele <antonio.ele@tiscali.it>",
+  "license": "MIT",
+  "dependencies": {
+    "@magento/upward-js": "^2.2.0",
+    "express": "^4.17.1"
+  }
+}
