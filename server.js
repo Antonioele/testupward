@@ -4,5 +4,5 @@ createUpwardServer({
     upwardPath: 'spec.yml',
     bindLocal: true,
     logUrl: true,
-    port: 8080
+    port: 8087
 });
